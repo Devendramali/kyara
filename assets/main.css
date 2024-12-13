@@ -542,6 +542,7 @@
     padding: 40px ;
     background-image: url(./images/asd.png);
     background-position: center;
+    background-size: cover;
 }
 .sec4{
     background-color: #f5f5f5;
